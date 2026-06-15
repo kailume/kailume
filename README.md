@@ -1,5 +1,16 @@
 ## Hi there 👋
+Focus on algorithm development and backend engineering, keep learning and practicing.
 
+### 💻 Tech Skills
+
+
+### 📈 GitHub Stats & Languages
+
+
+
+---
+### 📎 External Links
+https://resume.kailume.space/
 <!--
 **kailume/kailume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
