@@ -4,7 +4,7 @@ Focus on algorithm development and backend engineering, keep learning and practi
 [![Anurag's GitHub stats](https://github-readme-stats-khuk.vercel.app/api?username=kailume)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### 💻 Tech Skills
-[![Top Langs](https://github-readme-stats-khuk.vercel.app/api/top-langs/?username=kailume&v=2&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-khuk.vercel.app/api/top-langs/?username=kailume&layout=donut&v=2&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 📎 External Links
