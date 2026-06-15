@@ -2,7 +2,7 @@
 Focus on algorithm development and backend engineering, keep learning and practicing.
 
 ### 💻 Tech Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailume&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-1-five-puce.vercel.app/api/top-langs/?username=kailume&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
